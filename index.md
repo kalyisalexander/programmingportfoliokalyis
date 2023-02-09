@@ -12,4 +12,6 @@ OOP Graphical Calculator build in Processing 4
 
 OOP Etch A Sketch build in Processing 4
 
-![Running Etch A Sketch]()
+![Running Etch A Sketch](https://github.com/kalyisalexander/programmingportfoliokalyis/blob/main/images/Etch%20A%20Sketch.png?raw=true)
+
+[Etch A Sketch Running Source Code]()
