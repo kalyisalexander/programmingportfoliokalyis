@@ -14,4 +14,6 @@ OOP Etch A Sketch build in Processing 4
 
 ![Running Etch A Sketch](https://github.com/kalyisalexander/programmingportfoliokalyis/blob/main/images/Etch%20A%20Sketch.png?raw=true)
 
-[Etch A Sketch Running Source Code]()
+[Etch A Sketch Running Source Code](https://github.com/kalyisalexander/programmingportfoliokalyis/blob/main/src/etchAsketch_221004b.pde)
+
+![Running Calculator]
