@@ -16,4 +16,8 @@ OOP Etch A Sketch build in Processing 4
 
 [Etch A Sketch Running Source Code](https://github.com/kalyisalexander/programmingportfoliokalyis/blob/main/src/etchAsketch_221004b.pde)
 
-![Running Calculator]
+![Running Space Game](https://github.com/kalyisalexander/programmingportfoliokalyis/blob/main/running%20space%20game.png)
+
+[Space Game Source code](https://github.com/kalyisalexander/programmingportfoliokalyis/tree/main/src/Spaceship_game)
+
+
